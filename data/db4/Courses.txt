@@ -1,0 +1,4 @@
+CourseID:INTEGER:1:1,CourseName:TEXT:0:0,Credits:INTEGER:1:0,TeacherName:TEXT:1:0
+101,数据库原理,4,陈教授
+102,操作系统,4,李教授
+103,计算机网络,3,王教授

@@ -1,0 +1,5 @@
+/Volumes/HIKSEMI/课程文件/Code/DBMS2/build/CMakeFiles/dbms_system.dir
+/Volumes/HIKSEMI/课程文件/Code/DBMS2/build/CMakeFiles/edit_cache.dir
+/Volumes/HIKSEMI/课程文件/Code/DBMS2/build/CMakeFiles/rebuild_cache.dir
+/Volumes/HIKSEMI/课程文件/Code/DBMS2/build/CMakeFiles/dbms_system_autogen_timestamp_deps.dir
+/Volumes/HIKSEMI/课程文件/Code/DBMS2/build/CMakeFiles/dbms_system_autogen.dir
